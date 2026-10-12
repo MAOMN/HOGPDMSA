@@ -1,0 +1,15 @@
+context	genes	model
+MSA_vs_HC__OPC	13612	~Age_z+Diagnosis
+MSA_vs_HC__OL1	15109	~Age_z+Diagnosis
+MSA_vs_HC__OL2	16833	~Age_z+Diagnosis
+MSA_vs_HC__OL3	14389	~Age_z+Diagnosis
+MSA_vs_HC__OL4	15589	~Age_z+Diagnosis
+MSA_vs_HC__OL5	15983	~Age_z+Diagnosis
+MSA_vs_HC__OL6	5271	~Age_z+Diagnosis
+PD_vs_HC__OPC	14723	~Age_z+Diagnosis
+PD_vs_HC__OL1	16869	~Age_z+Diagnosis
+PD_vs_HC__OL2	16260	~Age_z+Diagnosis
+PD_vs_HC__OL3	13680	~Age_z+Diagnosis
+PD_vs_HC__OL4	14351	~Age_z+Diagnosis
+PD_vs_HC__OL5	13216	~Age_z+Diagnosis
+PD_vs_HC__OL6	8436	~Age_z+Diagnosis

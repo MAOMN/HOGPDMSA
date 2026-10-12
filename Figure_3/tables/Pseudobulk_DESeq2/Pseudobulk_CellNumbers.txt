@@ -1,0 +1,8 @@
+natural_label	n_cells	n_samples_with_cells	min_cells_per_sample	max_cells_per_sample
+OPC	5343	29	0	482
+OL1	25681	29	0	2135
+OL2	21795	29	0	1584
+OL3	18456	29	0	1507
+OL4	7239	29	0	598
+OL5	6261	29	0	1240
+OL6	3660	29	0	1032

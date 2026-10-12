@@ -1,0 +1,15 @@
+Files that are not part of this repository, they are made by scripts or have to be downloaded and saved in this folder:
+
+MSigDB_2026.1_GO_BP.rds, MSigDB_2026.1_GO_CC.rds, MSigDB_2026.1_GO_MF.rds, MSigDB_2026.1_Reactome.rds, MSigDB_2026.1_Hallmark.txt.gz
+- gene sets of MSigDB 2026.1 (human)
+- made by DataPreparation/ReferenceFiles/code/MSigDB_GeneSets.R with the R package msigdbr 26.1.0 (it downloads MSigDB 2026.1 from https://zenodo.org/records/18968178)
+- used by Figure_1/code/03_Enrichment_Analysis.R, Figure_3/code/12_GSEA_Hallmark_Analysis.R and Figure_5/code/03_Disease_Dynamics_Modules_Analysis.R
+
+KEGG_hsa_Pathways.rds
+- KEGG pathways (human), made by DataPreparation/ReferenceFiles/code/KEGG_Pathways.R (the KEGG API is only for academic use by academic users)
+- used by Figure_1/code/03_Enrichment_Analysis.R
+
+Human.MitoPathways3.0.gmx
+- MitoCarta 3.0 pathways (Rath et al., Nucleic Acids Res 2020), download: https://personal.broadinstitute.org/scalvo/MitoCarta_Download/Human.MitoPathways3.0.gmx
+- sha256 of the file used for the results: fef0f6e4bc9231ec4a33fa02f6f1ae998e438735e5ece94e3efbdc7728b92dff
+- used by Figure_2/code/03_GSEA_MitoCarta_Analysis.R

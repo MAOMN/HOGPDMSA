@@ -1,0 +1,3 @@
+gene	eligible_point_rows	sampled_point_rows	sampling_fraction_realized	unique_eligible_cells	unique_sampled_cells	fit_batch_id
+COX6B1	53347	26673	0.499990627401728	53347	26673	179
+ATP5F1E	53347	26673	0.499990627401728	53347	26673	172

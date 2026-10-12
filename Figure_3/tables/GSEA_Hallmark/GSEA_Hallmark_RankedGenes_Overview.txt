@@ -1,0 +1,15 @@
+natural_label	contrast	n_input_rows	n_protein_coding_padj_nonNA	n_analysis_universe	rank_metric
+OPC	MSA_vs_HC	13612	11121	11121	DESeq2 Wald statistic
+OL1	MSA_vs_HC	15109	11377	11377	DESeq2 Wald statistic
+OL2	MSA_vs_HC	16833	12232	12232	DESeq2 Wald statistic
+OL3	MSA_vs_HC	14389	10935	10935	DESeq2 Wald statistic
+OL4	MSA_vs_HC	15589	11675	11675	DESeq2 Wald statistic
+OL5	MSA_vs_HC	15983	11946	11946	DESeq2 Wald statistic
+OL6	MSA_vs_HC	5271	4697	4697	DESeq2 Wald statistic
+OPC	PD_vs_HC	14723	11706	11706	DESeq2 Wald statistic
+OL1	PD_vs_HC	16869	12259	12259	DESeq2 Wald statistic
+OL2	PD_vs_HC	16260	12035	12035	DESeq2 Wald statistic
+OL3	PD_vs_HC	13680	10691	10691	DESeq2 Wald statistic
+OL4	PD_vs_HC	14351	11113	11113	DESeq2 Wald statistic
+OL5	PD_vs_HC	13216	10528	10528	DESeq2 Wald statistic
+OL6	PD_vs_HC	8436	7349	7349	DESeq2 Wald statistic

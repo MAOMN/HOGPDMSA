@@ -1,0 +1,7 @@
+term	neg_log10_FDR
+Response to heat	5.1321592650407
+Protein folding	4.46744133524853
+Cellular response to heat	4.46744133524853
+Response to temperature stimulus	4.46744133524853
+Response to topologically incorrect protein	3.96755550525632
+Protein maturation	2.65313925245507

@@ -1,0 +1,2 @@
+NES	FDR	leading_edge_genes	genes_in_set
+1.90903458485081	0.00429332992673062	34	81

@@ -1,0 +1,14 @@
+lineage	order	cell_state
+Lineage 1	1	OPC
+Lineage 1	2	OL2
+Lineage 1	3	OL4
+Lineage 1	4	OL1
+Lineage 1	5	OL5
+Lineage 2	1	OPC
+Lineage 2	2	OL2
+Lineage 2	3	OL4
+Lineage 2	4	OL1
+Lineage 2	5	OL6
+Lineage 3	1	OPC
+Lineage 3	2	OL2
+Lineage 3	3	OL3

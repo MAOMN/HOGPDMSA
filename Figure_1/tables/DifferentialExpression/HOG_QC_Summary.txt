@@ -1,0 +1,2 @@
+dataset	n_samples	n_groups	design	contrast	n_genes_raw	n_genes_tested	n_genes_NA	n_DEGs_padj05	n_Up	n_Down	median_libsize	min_libsize	max_libsize	pc1_var_pct	pc2_var_pct	rlog_transform
+HOG	6	2	~condition	condition; asyn_PFF; Control	20015	19231	784	109	51	58	30592060	30475963	30708171	39.36	22.3	rlog (N<30)

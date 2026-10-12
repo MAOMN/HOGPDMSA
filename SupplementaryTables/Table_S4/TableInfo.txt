@@ -1,0 +1,19 @@
+File: Supplementary_Table_4.xlsx
+- Supplementary Table 4 of the manuscript, made by 02_Supplementary_Table_4_Format.R (a new layout of the results in tables/, no new analysis)
+- rows: 38 GO biological processes, 5 respiration-related and 5 protein-folding-related processes, then the 6 processes with the lowest FDR of every module that is not C1 (processes already listed are not repeated)
+- columns: the 9 modules with at least one process with FDR < 0.05 (named disease, lineage and module, e.g. MSA Lineage 1 C2; not shown: MSA Lineage 1 C1, MSA Lineage 1 C5, PD Lineage 1 C2, PD Lineage 3 C2)
+- cells: fdr_bh_within_module of Supplementary_Table_S4_GO_BP_enrichment.txt.gz, also when not significant; a process with 15 to 500 genes in the gene universe and no gene in the module is not returned by the enrichment, its P value and FDR are 1 (112 of the 342 cells); a process with fewer than 15 or more than 500 genes in the gene universe of the module is not tested, the cell says "Not tested" (7 cells)
+
+File: Supplementary_Table_S4_GO_BP_enrichment.txt.gz
+- GO biological process enrichment of the 13 gene modules of Figure 5 (MSA or PD versus HC, lineage 1 and 3)
+- one row for each GO BP gene set that has at least one gene in common with the module, also the not significant ones
+- module_label: name of the module in the figures (C1, C2, ...), module_id: name used in the analysis
+- msigdb_gene_set_id: MSigDB identifier of the gene set (not the GO accession), msigdb_gene_set_name: name in MSigDB, gene_set_label: readable version of the name
+- module_genes_total: all genes of the module, module_genes_in_universe: genes of the module in the gene universe, background_genes_in_universe: size of the gene universe
+- overlap_genes: gene symbols separated by semicolon
+- p_value: enrichment p-value, fdr_bh_within_module: Benjamini-Hochberg adjusted within each module over all returned gene sets
+- gene universe: genes with a valid condition test for the disease and lineage that are part of at least one GO BP gene set
+- clusterProfiler enricher with MSigDB 2026.1 GO BP, gene sets with 15 to 500 genes, no p-value or q-value cutoff
+
+File: Supplementary_Table_S4_module_summary.txt
+- Number of tested and significant GO BP gene sets per module

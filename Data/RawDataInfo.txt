@@ -1,0 +1,27 @@
+Raw data are not part of this repository. The scripts in DataPreparation read them from one folder (rawDataPath at the top of the scripts) with the following subfolders:
+
+Folder: HOG_RNAseq
+- Paired-end RNA-seq reads of the six HOG samples (three controls, three samples treated with alpha-synuclein pre-formed fibrils), twelve files:
+  <sample>_S<number>_R1_001.fastq.gz and <sample>_S<number>_R2_001.fastq.gz (Ctrl1_S1, Ctrl2_S2, Ctrl3_S3, asyn1_S4, asyn2_S5, asyn3_S6)
+- GEO series: GSE349624 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE349624)
+
+Folder: GENCODE_v47
+- gencode.v47.transcripts.fa.gz, GRCh38.primary_assembly.genome.fa.gz and gencode.v47.annotation.gtf.gz
+- GENCODE release 47: https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_47/
+
+Folder: snRNAseq_HC_MSA_PD
+- adata.h5ad: snRNA-seq data set of HC, MSA and PD donors (raw counts, cell annotation and UMAP of the authors), Rydbirk et al., Nature Communications 17, 5234 (2026)
+  Broad Single Cell Portal, accession SCP3252 (offered there as "adata (1).h5ad", rename it to adata.h5ad)
+- metadata.tsv: donor table of the same study (diagnosis, sex, age, post-mortem interval, brain bank, RNA extraction batch, flowcell), part of the data archive of the authors
+  that is linked in their code repository https://github.com/rrydbirk/MSAvsPD ("Remaining data", https://osf.io/bgrqa)
+
+Folder: ExternalPDCohorts
+- Three published snRNA-seq data sets of PD and control donors, downloaded from GEO (supplementary files of the series or of the samples):
+- Martirosyan_GSE243639: GSE243639_Filtered_count_table.csv.gz (counts of all cells), GSE243639_UMAP_coordinates.xlsx (cell types of the authors), GSE243639_Clinical_data.csv.gz (donor table)
+  GEO series GSE243639, "Unravelling cell type specific response to Parkinson's Disease at single cell resolution" (Martirosyan et al., PubMed 38245794)
+- Smajic_GSE157783: GSE157783_IPDCO_hg_midbrain_UMI.tar.gz (counts of all cells), GSE157783_IPDCO_hg_midbrain_cell.tar.gz (cell types of the authors), GSE157783_IPDCO_hg_midbrain_genes.tar.gz (genes),
+  GSE157783_family.soft.gz (series file with age and sex of the donors)
+  GEO series GSE157783, "Single cell atlas of the human midbrain reveals cell state specific to Parkinson's disease" (Smajic et al.)
+- Lee_GSE148434: <GSM>_<donor>_snRNA.molecule_info.h5 of the twelve snRNA-seq samples GSM6459689 to GSM6459700 (molecule files of Cell Ranger, there are no count matrices or cell annotations in GEO)
+  GEO series GSE148434, "Characterization of altered molecular mechanisms in Parkinson's disease through cell type-resolved multi-omics analyses" (Lee et al., PubMed 37058563)
+  abo2467_Table_S1.xlsx (Table S1 of the supplementary material of the article, Lee et al., Sci Adv 9, eabo2467 (2023), DOI 10.1126/sciadv.abo2467; age and sex of the donors, which GEO does not give; in the folder of the molecule files)

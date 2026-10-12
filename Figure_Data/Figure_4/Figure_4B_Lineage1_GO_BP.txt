@@ -1,0 +1,10 @@
+module	term
+C01	Regulation of trans-synaptic signaling
+C01	Regulation of nervous system development
+C01	Regulation of neuron projection development
+C02	No enriched GO BP term
+C03	Oligodendrocyte differentiation
+C03	Glial cell differentiation
+C03	Ensheathment of neurons
+C04	Long-chain fatty-acyl-CoA metabolic process
+C04	Long-chain fatty-acyl-CoA biosynthetic process

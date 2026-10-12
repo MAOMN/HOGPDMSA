@@ -1,0 +1,17 @@
+entry	cohort	stratum	model_formula	n_HC	n_PD	residual_df	genes_fitted	TF_input_genes
+martirosyan__PD_vs_HC__OPC	martirosyan	OPC	~ Age_z + Diagnosis	14	15	26	18530	18419
+martirosyan__PD_vs_HC__OL1	martirosyan	OL1	~ Age_z + Diagnosis	14	15	26	18961	18849
+martirosyan__PD_vs_HC__OL2	martirosyan	OL2	~ Age_z + Diagnosis	14	15	26	18671	18559
+martirosyan__PD_vs_HC__OL3	martirosyan	OL3	~ Age_z + Diagnosis	14	15	26	16402	16292
+martirosyan__PD_vs_HC__OL4	martirosyan	OL4	~ Age_z + Diagnosis	14	13	24	11201	11100
+martirosyan__PD_vs_HC__OL5	martirosyan	OL5	~ Age_z + Diagnosis	8	6	11	14754	14648
+smajic__PD_vs_HC__OPC	smajic	OPC	~ Age_z + Diagnosis	6	5	8	17274	16266
+smajic__PD_vs_HC__OL1	smajic	OL1	~ Age_z + Diagnosis	6	5	8	17919	11317
+smajic__PD_vs_HC__OL2	smajic	OL2	~ Age_z + Diagnosis	6	5	8	19393	14127
+smajic__PD_vs_HC__OL3	smajic	OL3	~ Age_z + Diagnosis	6	5	8	17892	11647
+smajic__PD_vs_HC__OL4	smajic	OL4	~ Age_z + Diagnosis	6	5	8	18252	13650
+lee__PD_vs_HC__OPC	lee	OPC	~ Age_z + Diagnosis	6	6	9	16316	16206
+lee__PD_vs_HC__OL1	lee	OL1	~ Age_z + Diagnosis	6	6	9	20508	14435
+lee__PD_vs_HC__OL2	lee	OL2	~ Age_z + Diagnosis	6	6	9	16408	10581
+lee__PD_vs_HC__OL3	lee	OL3	~ Age_z + Diagnosis	6	6	9	18057	17946
+lee__PD_vs_HC__OL4	lee	OL4	~ Age_z + Diagnosis	6	6	9	16554	10034

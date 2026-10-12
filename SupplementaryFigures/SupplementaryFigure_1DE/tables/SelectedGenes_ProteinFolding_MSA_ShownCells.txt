@@ -1,0 +1,3 @@
+gene	eligible_point_rows	sampled_point_rows	sampling_fraction_realized	unique_eligible_cells	unique_sampled_cells	fit_batch_id
+HSPA1A	39204	19602	0.5	39204	19602	63
+HSPA4L	39204	19602	0.5	39204	19602	49

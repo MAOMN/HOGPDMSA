@@ -1,0 +1,3 @@
+disease	contexts	tested	significant_tests	significant_regulators
+MSA	7	2037	237	99
+PD	7	2044	417	110

@@ -1,0 +1,16 @@
+db	direction	n_tested	n_reported	n_sig
+GO_BP	Up	1245	90	90
+GO_CC	Up	133	0	0
+GO_MF	Up	147	13	13
+KEGG	Up	167	50	50
+Reactome	Up	266	18	18
+GO_BP	Down	1077	30	30
+GO_CC	Down	101	6	6
+GO_MF	Down	191	9	9
+KEGG	Down	102	11	11
+Reactome	Down	181	7	7
+GO_BP	All	1862	82	82
+GO_CC	All	192	3	3
+GO_MF	All	283	22	22
+KEGG	All	194	43	43
+Reactome	All	399	8	8

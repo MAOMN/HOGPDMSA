@@ -1,0 +1,7 @@
+term	neg_log10_FDR
+Oxidative phosphorylation	21.7758802966301
+ATP synthesis coupled electron transport	17.9477165400898
+Cellular respiration	15.3107550437658
+Electron transport chain	15.1948145509506
+Proton motive force-driven ATP synthesis	15.0333618529844
+Proton transmembrane transport	14.3922011013778

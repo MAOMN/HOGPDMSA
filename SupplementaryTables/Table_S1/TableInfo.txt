@@ -1,0 +1,21 @@
+File: Supplementary_Table_1.xlsx
+- Supplementary Table 1 of the manuscript, made by 03_Supplementary_Table_1_Format.R (a new layout of the results in tables/, no new analysis)
+- one row for each selected transcription factor (ExternalPDCohorts_SelectedTFs.txt) and cell population with FDR < 0.05: 93 rows
+- columns Dataset, TF, Population, Activity (VIPER_NES) and FDR (FDR_BH_within_population) of Supplementary_Table_S1_TF_activity.txt
+
+File: Supplementary_Table_S1_TF_activity.txt
+- Transcription factor activities for the Martirosyan, Smajic and Lee PD versus HC data sets
+- 317 transcription factors of the brainSCOPE oligodendrocyte network in each cell population of each data set (Martirosyan: OPC and OL1 to OL5, Smajic and Lee: OPC and OL1 to OL4): 5,072 rows
+- columns dataset, contrast, population, TF: identify the row
+- VIPER_NES: signed activity score, p_value and FDR_BH_within_population: nominal p-value and p-value adjusted over the tested transcription factors of one data set and population
+- regulon_targets: number of target genes in the network, mapped_targets: number of target genes among the genes used for this population
+- rows with test_status NOT_TESTED_MAPPED_TARGETS_LT5 have less than five mapped target genes, score and p-values are empty (this does not mean zero activity)
+- each data set was analyzed at the donor level with the model ~ Age_z + Diagnosis (age standardized within the donors used for the population)
+- DESeq2 Wald statistics of all genes with adjusted p-value were used, technical genes (Data/ReferenceFiles/GeneLists/TechnicalGenes.txt) were removed as for our own data
+- the OL populations are defined within each data set, the same name in two data sets does not mean the same cell state
+
+File: Supplementary_Table_S1_dataset_summary.txt
+- Number of tested and significant transcription factors per data set
+
+File: ExternalPDCohorts_SelectedTFs.txt
+- Selected transcription factors of each data set (made by 02_TF_Selection_Analysis.R): the 10 TFs with the lowest sum of FDR values over the populations of the data set and the 10 TFs shown for our PD comparison in Figure 3G

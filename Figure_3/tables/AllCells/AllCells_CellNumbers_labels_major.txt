@@ -1,0 +1,11 @@
+labels_major	n_cells
+Oligodendrocytes	84280
+Astrocytes	10766
+Microglia	6252
+OPCs	5407
+Medium spiny neurons	5018
+GABAergic neurons	2846
+Pericytes/endothelial	683
+PVMs	677
+GLUergic neurons	583
+Immune	435

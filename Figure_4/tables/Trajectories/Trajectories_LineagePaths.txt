@@ -1,0 +1,14 @@
+lineage	path_order	cluster	root_cluster	terminal_cluster
+Lineage 1	1	OPC	OPC	OL5
+Lineage 1	2	OL2	OPC	OL5
+Lineage 1	3	OL4	OPC	OL5
+Lineage 1	4	OL1	OPC	OL5
+Lineage 1	5	OL5	OPC	OL5
+Lineage 2	1	OPC	OPC	OL6
+Lineage 2	2	OL2	OPC	OL6
+Lineage 2	3	OL4	OPC	OL6
+Lineage 2	4	OL1	OPC	OL6
+Lineage 2	5	OL6	OPC	OL6
+Lineage 3	1	OPC	OPC	OL3
+Lineage 3	2	OL2	OPC	OL3
+Lineage 3	3	OL3	OPC	OL3

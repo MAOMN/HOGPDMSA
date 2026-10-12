@@ -1,0 +1,14 @@
+contrast	disease	lineage	module_label	module_id	module_genes_total	module_genes_in_universe	background_genes_in_universe	correction_family	tested_terms_with_overlap	significant_terms_fdr_lt_0_05
+MSA_vs_HC	MSA	L1	C1	MSA_L1__D01	172	53	12071	MSA_L1__D01__all_overlapping_GO_BP_terms	952	0
+MSA_vs_HC	MSA	L1	C2	MSA_L1__D02	76	59	12071	MSA_L1__D02__all_overlapping_GO_BP_terms	1339	5
+MSA_vs_HC	MSA	L1	C3	MSA_L1__D03	58	51	12071	MSA_L1__D03__all_overlapping_GO_BP_terms	929	18
+MSA_vs_HC	MSA	L1	C4	MSA_L1__D04	55	46	12071	MSA_L1__D04__all_overlapping_GO_BP_terms	1068	16
+MSA_vs_HC	MSA	L1	C5	MSA_L1__D05	41	27	12071	MSA_L1__D05__all_overlapping_GO_BP_terms	348	0
+MSA_vs_HC	MSA	L3	C1	MSA_L3__D01	156	112	11060	MSA_L3__D01__all_overlapping_GO_BP_terms	1571	9
+MSA_vs_HC	MSA	L3	C2	MSA_L3__D02	90	58	11060	MSA_L3__D02__all_overlapping_GO_BP_terms	1239	14
+MSA_vs_HC	MSA	L3	C3	MSA_L3__D03	26	22	11060	MSA_L3__D03__all_overlapping_GO_BP_terms	420	13
+PD_vs_HC	PD	L1	C1	PD_L1__D01	463	317	12074	PD_L1__D01__all_overlapping_GO_BP_terms	2601	55
+PD_vs_HC	PD	L1	C2	PD_L1__D02	149	72	12074	PD_L1__D02__all_overlapping_GO_BP_terms	986	0
+PD_vs_HC	PD	L1	C3	PD_L1__D03	91	71	12074	PD_L1__D03__all_overlapping_GO_BP_terms	1145	4
+PD_vs_HC	PD	L3	C1	PD_L3__D01	659	479	11330	PD_L3__D01__all_overlapping_GO_BP_terms	2738	96
+PD_vs_HC	PD	L3	C2	PD_L3__D02	177	127	11330	PD_L3__D02__all_overlapping_GO_BP_terms	1480	0

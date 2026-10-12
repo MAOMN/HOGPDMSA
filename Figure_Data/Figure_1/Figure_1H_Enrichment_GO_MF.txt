@@ -1,0 +1,9 @@
+term	gene_ratio	count	FDR
+Oxidoreduction-driven active transmembrane transporter activity	0.0972222222222222	7	5.08721158220505e-05
+Active monoatomic ion transmembrane transporter activity	0.0972222222222222	7	0.000282905607557268
+Electron transfer activity	0.0972222222222222	7	0.000282905607557268
+Cytokine activity	0.0972222222222222	7	0.000282905607557268
+Proton transmembrane transporter activity	0.111111111111111	8	0.00038804695195883
+Primary active transmembrane transporter activity	0.0972222222222222	7	0.00125413087827958
+Chemokine activity	0.0416666666666667	3	0.00212366746405044
+Cytokine receptor binding	0.0972222222222222	7	0.00212366746405044

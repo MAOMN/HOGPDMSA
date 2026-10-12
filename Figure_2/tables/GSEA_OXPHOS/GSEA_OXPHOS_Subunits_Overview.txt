@@ -1,0 +1,3 @@
+version	pathway_reference_gene_count	ranked_overlap_gene_count	ranked_gene_count	mt_pc_in_pathway_count	mt_pc_in_rank_count	mt_pc_in_overlap_count	chr_m_symbols_removed_from_rank	rpl_rps_symbols_removed_from_rank	ES	NES	pval	padj	tested_mitopathway_count	leading_edge_gene_count
+mt-pc retained	102	94	13335	13	13	13	0	97	-0.337072490340626	-1.46574681013054	0.0195063781230507	0.551055181976183	113	11
+mt-pc excluded	89	81	13322	0	0	0	13	97	0.477089321480031	1.90903458485081	7.59881402961171e-05	0.00429332992673062	113	34

@@ -1,0 +1,10 @@
+natural_cluster	n_cells	n_opc_author	opc_fraction	n_ol_author	n_donors	n_donors_with_min_cells	final_retained	final_cluster_label
+0	17628	3	0.000170183798502383	17625	29	28	TRUE	OL1
+1	10017	0	0	10017	29	27	TRUE	OL2
+2	6411	6401	0.998440180939011	10	29	27	TRUE	OPC
+3	2998	0	0	2998	29	13	TRUE	OL3
+4	2582	0	0	2582	29	10	TRUE	OL4
+5	1155	0	0	1155	24	4	TRUE	OL5
+6	527	138	0.261859582542694	389	29	0	FALSE	not_kept
+7	83	0	0	83	12	0	FALSE	not_kept
+8	81	67	0.82716049382716	14	21	0	FALSE	not_kept

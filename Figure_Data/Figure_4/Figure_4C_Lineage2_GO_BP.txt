@@ -1,0 +1,9 @@
+module	term
+C01	No enriched GO BP term
+C02	Regulation of trans-synaptic signaling
+C02	Synapse assembly
+C02	Regulation of nervous system development
+C03	No enriched GO BP term
+C04	Ensheathment of neurons
+C04	Myelin assembly
+C04	Axon development

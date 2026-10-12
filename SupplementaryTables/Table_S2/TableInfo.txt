@@ -1,0 +1,12 @@
+File: Supplementary_Table_2.xlsx
+- Supplementary Table 2 of the manuscript, made by 02_Supplementary_Table_2_Format.R (a new layout of the results in tables/, no new analysis)
+- one row for each lineage and gene with FDR < 0.05: 24,175 rows
+- columns Lineage (Lineage 1 to Lineage 3; L1 to L3 in tables/), Gene, FDR (fdr) and Module (module) of Supplementary_Table_S2_HC_dynamic_genes.txt.gz
+
+File: Supplementary_Table_S2_HC_dynamic_genes.txt.gz
+- Genes that change along pseudotime in HC (Figure 4): one row for each lineage and gene with FDR < 0.05 in the association test of tradeSeq (Figure_4/code/08_HC_Dynamics_AssociationTest_Analysis.R)
+- lineage, endpoint: lineage of the trajectory and its end state
+- pvalue, fdr: p-value of the association test and Benjamini-Hochberg adjusted p-value within the lineage
+- module: gene module in the heatmap of the lineage (C1 to C4 from top to bottom, ordered by the bin of the peak of the fitted curve; Figure_4/code/09_HC_Dynamics_Modules_Analysis.R)
+- rows sorted by lineage, then by fdr
+- a p-value of 0 is below the numerical precision of tradeSeq (the p-value is computed as 1 minus the chi-squared distribution function), its fdr is also 0

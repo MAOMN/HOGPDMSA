@@ -1,0 +1,15 @@
+cell_state	comparison	up	down
+OPC	MSA vs HC	4	7
+OPC	PD vs HC	29	13
+OL1	MSA vs HC	17	13
+OL1	PD vs HC	719	346
+OL2	MSA vs HC	1	0
+OL2	PD vs HC	547	255
+OL3	MSA vs HC	0	0
+OL3	PD vs HC	611	271
+OL4	MSA vs HC	0	0
+OL4	PD vs HC	504	194
+OL5	MSA vs HC	1	0
+OL5	PD vs HC	278	72
+OL6	MSA vs HC	18	45
+OL6	PD vs HC	122	20

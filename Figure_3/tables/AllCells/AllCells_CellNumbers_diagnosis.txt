@@ -1,0 +1,4 @@
+diagnosis	n_cells
+HC	51652
+PD	42708
+MSA	22587

@@ -1,0 +1,7 @@
+sample	condition	replicate
+Ctrl1	Control	1
+Ctrl2	Control	2
+Ctrl3	Control	3
+asyn1	asyn_PFF	1
+asyn2	asyn_PFF	2
+asyn3	asyn_PFF	3

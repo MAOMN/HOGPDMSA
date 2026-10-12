@@ -1,0 +1,7 @@
+Files that are not part of this repository, they have to be downloaded and saved in this folder:
+
+Oli_GRN.txt
+- gene regulatory network of oligodendrocytes of brainSCOPE (Emani et al., Science 2024)
+- download: https://brainscope.gersteinlab.org/data/GRNs/Oli_GRN.txt (all networks: https://brainscope.gersteinlab.org/output-reg-celltype.html)
+- sha256 of the file used for the results: 669f499458bf25c138a5511eb9f2a37933d5431ba781caa9ddec138146a6d7c2
+- used by Figure_2/code/05_TF_Activity_Analysis.R

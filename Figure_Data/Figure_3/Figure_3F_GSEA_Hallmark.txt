@@ -1,0 +1,183 @@
+gene_set	cell_state	comparison	NES	FDR
+Tnfa signaling via nfkb	OPC	MSA vs HC	-1.97815253637009	0.000253468237640775
+Hypoxia	OPC	MSA vs HC		
+Cholesterol homeostasis	OPC	MSA vs HC	-1.94998339251888	0.00212786423662984
+Wnt beta catenin signaling	OPC	MSA vs HC		
+Interferon alpha response	OPC	MSA vs HC	1.72671060744871	0.0130964665040411
+Interferon gamma response	OPC	MSA vs HC		
+Mtorc1 signaling	OPC	MSA vs HC	-1.69125208574559	0.0028050438715953
+E2f targets	OPC	MSA vs HC		
+Myc targets v1	OPC	MSA vs HC		
+Oxidative phosphorylation	OPC	MSA vs HC		
+P53 pathway	OPC	MSA vs HC		
+Uv response up	OPC	MSA vs HC	-1.7600578530573	0.00456363156956292
+Kras signaling dn	OPC	MSA vs HC	1.79855752826274	0.00449210182827899
+Tnfa signaling via nfkb	OL1	MSA vs HC	2.01290813277864	0.00015961638275985
+Hypoxia	OL1	MSA vs HC		
+Cholesterol homeostasis	OL1	MSA vs HC		
+Wnt beta catenin signaling	OL1	MSA vs HC	1.79589980223012	0.0485909860045229
+Interferon alpha response	OL1	MSA vs HC		
+Interferon gamma response	OL1	MSA vs HC		
+Mtorc1 signaling	OL1	MSA vs HC		
+E2f targets	OL1	MSA vs HC		
+Myc targets v1	OL1	MSA vs HC		
+Oxidative phosphorylation	OL1	MSA vs HC		
+P53 pathway	OL1	MSA vs HC	1.81556519119747	0.00099898214203009
+Uv response up	OL1	MSA vs HC		
+Kras signaling dn	OL1	MSA vs HC		
+Tnfa signaling via nfkb	OL2	MSA vs HC	2.09589551555057	5.50865539063155e-06
+Hypoxia	OL2	MSA vs HC	1.58377268521487	0.0149619895116278
+Cholesterol homeostasis	OL2	MSA vs HC		
+Wnt beta catenin signaling	OL2	MSA vs HC		
+Interferon alpha response	OL2	MSA vs HC		
+Interferon gamma response	OL2	MSA vs HC		
+Mtorc1 signaling	OL2	MSA vs HC		
+E2f targets	OL2	MSA vs HC	1.86287972660992	6.55775179655112e-05
+Myc targets v1	OL2	MSA vs HC	2.09194969694635	3.62646471764231e-07
+Oxidative phosphorylation	OL2	MSA vs HC		
+P53 pathway	OL2	MSA vs HC	1.69876305504572	0.00355954411346593
+Uv response up	OL2	MSA vs HC		
+Kras signaling dn	OL2	MSA vs HC		
+Tnfa signaling via nfkb	OL3	MSA vs HC		
+Hypoxia	OL3	MSA vs HC		
+Cholesterol homeostasis	OL3	MSA vs HC		
+Wnt beta catenin signaling	OL3	MSA vs HC		
+Interferon alpha response	OL3	MSA vs HC		
+Interferon gamma response	OL3	MSA vs HC		
+Mtorc1 signaling	OL3	MSA vs HC		
+E2f targets	OL3	MSA vs HC		
+Myc targets v1	OL3	MSA vs HC		
+Oxidative phosphorylation	OL3	MSA vs HC		
+P53 pathway	OL3	MSA vs HC		
+Uv response up	OL3	MSA vs HC		
+Kras signaling dn	OL3	MSA vs HC		
+Tnfa signaling via nfkb	OL4	MSA vs HC	1.77500648474577	0.00402853430226031
+Hypoxia	OL4	MSA vs HC		
+Cholesterol homeostasis	OL4	MSA vs HC		
+Wnt beta catenin signaling	OL4	MSA vs HC		
+Interferon alpha response	OL4	MSA vs HC		
+Interferon gamma response	OL4	MSA vs HC		
+Mtorc1 signaling	OL4	MSA vs HC		
+E2f targets	OL4	MSA vs HC		
+Myc targets v1	OL4	MSA vs HC	1.67355490069682	0.00402853430226031
+Oxidative phosphorylation	OL4	MSA vs HC		
+P53 pathway	OL4	MSA vs HC	1.57277509869759	0.0145850592025023
+Uv response up	OL4	MSA vs HC	1.75465926267621	0.00461693886507362
+Kras signaling dn	OL4	MSA vs HC		
+Tnfa signaling via nfkb	OL5	MSA vs HC		
+Hypoxia	OL5	MSA vs HC		
+Cholesterol homeostasis	OL5	MSA vs HC	-1.79753071213068	0.0491264602501539
+Wnt beta catenin signaling	OL5	MSA vs HC		
+Interferon alpha response	OL5	MSA vs HC		
+Interferon gamma response	OL5	MSA vs HC		
+Mtorc1 signaling	OL5	MSA vs HC		
+E2f targets	OL5	MSA vs HC		
+Myc targets v1	OL5	MSA vs HC		
+Oxidative phosphorylation	OL5	MSA vs HC		
+P53 pathway	OL5	MSA vs HC		
+Uv response up	OL5	MSA vs HC		
+Kras signaling dn	OL5	MSA vs HC		
+Tnfa signaling via nfkb	OL6	MSA vs HC		
+Hypoxia	OL6	MSA vs HC		
+Cholesterol homeostasis	OL6	MSA vs HC		
+Wnt beta catenin signaling	OL6	MSA vs HC		
+Interferon alpha response	OL6	MSA vs HC		
+Interferon gamma response	OL6	MSA vs HC		
+Mtorc1 signaling	OL6	MSA vs HC		
+E2f targets	OL6	MSA vs HC		
+Myc targets v1	OL6	MSA vs HC	1.75341902415271	0.042322159607256
+Oxidative phosphorylation	OL6	MSA vs HC		
+P53 pathway	OL6	MSA vs HC		
+Uv response up	OL6	MSA vs HC		
+Kras signaling dn	OL6	MSA vs HC		
+Tnfa signaling via nfkb	OPC	PD vs HC	1.89761835226998	7.02576160763598e-05
+Hypoxia	OPC	PD vs HC	1.97585951193026	8.93190539476008e-06
+Cholesterol homeostasis	OPC	PD vs HC		
+Wnt beta catenin signaling	OPC	PD vs HC		
+Interferon alpha response	OPC	PD vs HC		
+Interferon gamma response	OPC	PD vs HC		
+Mtorc1 signaling	OPC	PD vs HC	1.93113700019807	7.84770730223066e-06
+E2f targets	OPC	PD vs HC		
+Myc targets v1	OPC	PD vs HC	1.95932231089326	4.03038904890411e-06
+Oxidative phosphorylation	OPC	PD vs HC	2.34772435422497	6.19095386496327e-12
+P53 pathway	OPC	PD vs HC	1.69551069149259	0.00131446732270987
+Uv response up	OPC	PD vs HC	1.72590097989244	0.00108684094048554
+Kras signaling dn	OPC	PD vs HC		
+Tnfa signaling via nfkb	OL1	PD vs HC	2.02765504440676	7.06601272190399e-06
+Hypoxia	OL1	PD vs HC	1.79336967142419	9.81757899334984e-05
+Cholesterol homeostasis	OL1	PD vs HC	1.6028896815651	0.0186202787248833
+Wnt beta catenin signaling	OL1	PD vs HC		
+Interferon alpha response	OL1	PD vs HC	2.36700074923672	2.08582500230889e-08
+Interferon gamma response	OL1	PD vs HC	2.18738543593574	2.08582500230889e-08
+Mtorc1 signaling	OL1	PD vs HC	1.79885874115525	6.87672141434034e-05
+E2f targets	OL1	PD vs HC	1.45069519290513	0.0200948476810546
+Myc targets v1	OL1	PD vs HC	2.29709366910938	8.43543352875977e-12
+Oxidative phosphorylation	OL1	PD vs HC	2.78684050329971	1.93148457927379e-24
+P53 pathway	OL1	PD vs HC	1.96482704866368	6.64119057470098e-06
+Uv response up	OL1	PD vs HC	2.15498587017656	5.23940086229472e-08
+Kras signaling dn	OL1	PD vs HC		
+Tnfa signaling via nfkb	OL2	PD vs HC	2.28929548334561	4.95375217214655e-10
+Hypoxia	OL2	PD vs HC	1.88843019437737	2.81015723110377e-05
+Cholesterol homeostasis	OL2	PD vs HC		
+Wnt beta catenin signaling	OL2	PD vs HC		
+Interferon alpha response	OL2	PD vs HC	2.59569426198991	8.10422007757535e-12
+Interferon gamma response	OL2	PD vs HC	2.41195983521917	1.64298905874317e-11
+Mtorc1 signaling	OL2	PD vs HC	1.85566408123645	2.81015723110377e-05
+E2f targets	OL2	PD vs HC		
+Myc targets v1	OL2	PD vs HC	2.25892879987737	1.19592490470247e-11
+Oxidative phosphorylation	OL2	PD vs HC	2.55631877880408	7.94066650294639e-18
+P53 pathway	OL2	PD vs HC	1.70429612471038	0.000499090974884334
+Uv response up	OL2	PD vs HC	2.03351441258084	7.16196920597407e-07
+Kras signaling dn	OL2	PD vs HC		
+Tnfa signaling via nfkb	OL3	PD vs HC	1.95872398590443	2.2546102458558e-05
+Hypoxia	OL3	PD vs HC	1.58025599905827	0.0104623522715859
+Cholesterol homeostasis	OL3	PD vs HC		
+Wnt beta catenin signaling	OL3	PD vs HC		
+Interferon alpha response	OL3	PD vs HC	2.1100914148838	1.52121084742617e-05
+Interferon gamma response	OL3	PD vs HC	1.99270387523801	1.52121084742617e-05
+Mtorc1 signaling	OL3	PD vs HC	1.81006283070914	2.2546102458558e-05
+E2f targets	OL3	PD vs HC	1.40467876671758	0.0420025524628035
+Myc targets v1	OL3	PD vs HC	2.17129905143709	3.23146074110227e-10
+Oxidative phosphorylation	OL3	PD vs HC	2.39482455907644	4.04091466813654e-15
+P53 pathway	OL3	PD vs HC	1.89821430993769	1.52121084742617e-05
+Uv response up	OL3	PD vs HC	2.03817430691854	3.43744415104477e-06
+Kras signaling dn	OL3	PD vs HC		
+Tnfa signaling via nfkb	OL4	PD vs HC	1.90558658295216	9.33476799545287e-05
+Hypoxia	OL4	PD vs HC	1.56493632624456	0.00829646017699115
+Cholesterol homeostasis	OL4	PD vs HC		
+Wnt beta catenin signaling	OL4	PD vs HC		
+Interferon alpha response	OL4	PD vs HC	2.2904965069413	6.43350183688698e-07
+Interferon gamma response	OL4	PD vs HC	2.01539104514655	1.31902407688118e-05
+Mtorc1 signaling	OL4	PD vs HC	1.95147038952094	3.6518399672856e-06
+E2f targets	OL4	PD vs HC		
+Myc targets v1	OL4	PD vs HC	2.44182167012361	3.07605418636849e-14
+Oxidative phosphorylation	OL4	PD vs HC	2.79904823205669	3.6568381692262e-24
+P53 pathway	OL4	PD vs HC	2.04848157416924	6.43350183688698e-07
+Uv response up	OL4	PD vs HC	2.20953958790274	4.9334648269164e-08
+Kras signaling dn	OL4	PD vs HC		
+Tnfa signaling via nfkb	OL5	PD vs HC	1.82677070120615	0.00103340850728313
+Hypoxia	OL5	PD vs HC	1.63227436135804	0.0043323547509674
+Cholesterol homeostasis	OL5	PD vs HC		
+Wnt beta catenin signaling	OL5	PD vs HC		
+Interferon alpha response	OL5	PD vs HC	2.15590187304774	3.18186971221962e-05
+Interferon gamma response	OL5	PD vs HC	1.98588454927908	4.96326416800013e-05
+Mtorc1 signaling	OL5	PD vs HC	1.83103145566688	8.40497574251361e-05
+E2f targets	OL5	PD vs HC		
+Myc targets v1	OL5	PD vs HC	2.10456161907475	3.05883723079642e-08
+Oxidative phosphorylation	OL5	PD vs HC	2.68054296490984	6.39427826920369e-20
+P53 pathway	OL5	PD vs HC	1.53931965227626	0.013551912568306
+Uv response up	OL5	PD vs HC	2.16529716684573	3.18857718237155e-07
+Kras signaling dn	OL5	PD vs HC		
+Tnfa signaling via nfkb	OL6	PD vs HC	1.65670228659677	0.0203691915977085
+Hypoxia	OL6	PD vs HC		
+Cholesterol homeostasis	OL6	PD vs HC		
+Wnt beta catenin signaling	OL6	PD vs HC		
+Interferon alpha response	OL6	PD vs HC	2.16076234217068	4.35363159212272e-05
+Interferon gamma response	OL6	PD vs HC	1.81541802358991	0.00101011076282531
+Mtorc1 signaling	OL6	PD vs HC	1.88327836095901	9.81697185781232e-05
+E2f targets	OL6	PD vs HC		
+Myc targets v1	OL6	PD vs HC	2.1453426936563	4.44402477620107e-09
+Oxidative phosphorylation	OL6	PD vs HC	2.4867688653718	1.83763289452026e-16
+P53 pathway	OL6	PD vs HC	1.68453527805994	0.00308988019613489
+Uv response up	OL6	PD vs HC	2.06752191715509	1.84902023600445e-05
+Kras signaling dn	OL6	PD vs HC		

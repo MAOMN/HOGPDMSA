@@ -1,0 +1,12 @@
+module	term
+C01	Golgi vesicle transport
+C01	RNA localization
+C01	Proteasome-mediated ubiquitin-dependent protein catabolic process
+C02	Regulation of trans-synaptic signaling
+C02	Synapse assembly
+C02	Regulation of membrane potential
+C03	Regulation of protein catabolic process
+C03	Spliceosomal snRNP assembly
+C04	Oligodendrocyte differentiation
+C04	Ensheathment of neurons
+C04	Oligodendrocyte development

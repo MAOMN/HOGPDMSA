@@ -1,0 +1,12 @@
+File: Supplementary_Table_3.xlsx
+- Supplementary Table 3 of the manuscript, made by 02_Supplementary_Table_3_Format.R (a new layout of the results in tables/, no new analysis)
+- one row for each comparison, lineage and gene with FDR < 0.05: 2,213 rows
+- columns Comparison, Lineage (Lineage 1 or Lineage 3; L1 or L3 in tables/), Gene, FDR (fdr) and Module (module) of Supplementary_Table_S3_disease_dynamic_genes.txt.gz
+
+File: Supplementary_Table_S3_disease_dynamic_genes.txt.gz
+- Genes that differ between disease and HC along the oligodendrocyte part of lineages 1 and 3 (Figure 5): one row for each comparison, lineage and gene with FDR < 0.05 in the condition test of tradeSeq (Figure_5/code/02_Disease_Dynamics_ConditionTest_Analysis.R)
+- comparison: MSA vs HC or PD vs HC; lineage, endpoint: lineage of the trajectory and its end state
+- pvalue, fdr: p-value of the condition test between the first and the last knot inside the pseudotime range of the oligodendrocytes, Benjamini-Hochberg adjusted within the comparison and lineage
+- module: gene module in Figure 5A (C1, C2, ..., C1 is the largest module of a comparison and lineage)
+- rows sorted by comparison, lineage, then by fdr
+- a p-value of 0 is below the numerical precision of tradeSeq (the p-value is computed as 1 minus the chi-squared distribution function), its fdr is also 0

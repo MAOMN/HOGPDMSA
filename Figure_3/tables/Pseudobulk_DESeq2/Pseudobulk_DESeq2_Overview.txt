@@ -1,0 +1,15 @@
+natural_label	contrast	model_formula	n_HC	n_case	n_samples	n_genes_after_count_filter	n_genes_after_snrna_filter_padj_nonNA	n_protein_coding_display	n_sig_lfc03_protein_coding	n_up_lfc03_protein_coding	n_down_lfc03_protein_coding	min_cells_per_sample	median_cells_per_sample
+OPC	MSA_vs_HC	~ Age_z + Diagnosis	10	7	17	17015	13612	11121	11	4	7	89	190
+OPC	PD_vs_HC	~ Age_z + Diagnosis	10	12	22	16782	14723	11706	42	29	13	57	128
+OL1	MSA_vs_HC	~ Age_z + Diagnosis	10	7	17	17219	15109	11377	30	17	13	123	839
+OL1	PD_vs_HC	~ Age_z + Diagnosis	10	12	22	17314	16869	12259	1065	719	346	61	955
+OL2	MSA_vs_HC	~ Age_z + Diagnosis	10	7	17	16941	16833	12232	1	1	0	70	574
+OL2	PD_vs_HC	~ Age_z + Diagnosis	10	12	22	17030	16260	12035	802	547	255	70	826
+OL3	MSA_vs_HC	~ Age_z + Diagnosis	10	7	17	14496	14389	10935	0	0	0	36	537
+OL3	PD_vs_HC	~ Age_z + Diagnosis	10	12	22	14944	13680	10691	882	611	271	36	612.5
+OL4	MSA_vs_HC	~ Age_z + Diagnosis	10	7	17	15697	15589	11675	0	0	0	34	247
+OL4	PD_vs_HC	~ Age_z + Diagnosis	10	12	22	15676	14351	11113	698	504	194	15	234.5
+OL5	MSA_vs_HC	~ Age_z + Diagnosis	10	7	17	16091	15983	11946	1	1	0	11	180
+OL5	PD_vs_HC	~ Age_z + Diagnosis	10	11	21	15767	13216	10528	350	278	72	16	155
+OL6	MSA_vs_HC	~ Age_z + Diagnosis	9	7	16	14051	5271	4697	63	18	45	14	51
+OL6	PD_vs_HC	~ Age_z + Diagnosis	9	10	19	11117	8436	7349	142	122	20	13	26

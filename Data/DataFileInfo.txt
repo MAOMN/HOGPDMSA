@@ -1,0 +1,35 @@
+Files of the folder Data. Files that are not part of this repository are made by the scripts in DataPreparation or have to be downloaded,
+the README or DOWNLOAD file of each folder says how. Raw data (sequencing reads, GENCODE files, published data sets) are described in RawDataInfo.txt.
+
+HOG_RNAseq
+- HOG_SampleOverview.txt: the six samples of the HOG cell experiment, three controls and three samples treated with alpha-synuclein pre-formed fibrils
+- HOG_SalmonQuant/<sample>/quant.sf: transcript quantification with Salmon (GENCODE v47), made by DataPreparation/HOG_RNAseq/code/Quantification_Salmon.sh
+
+ReferenceFiles/GENCODE_v47 (made by DataPreparation/ReferenceFiles/code/GENCODE_v47_GeneTables.R)
+- GENCODE_v47_tx2gene.txt: transcript to gene, used to sum the Salmon quantification per gene
+- GENCODE_v47_ProteinCodingGenes.txt: Ensembl ids of the protein-coding genes
+- GENCODE_v47_MitochondrialProteinCodingGenes.txt: the 13 protein-coding genes of the mitochondrial genome
+
+ReferenceFiles/GeneLists
+- TechnicalGenes.txt: genes left out of all analyses of the snRNA-seq data sets (clustering, signature scores, differential expression, transcription factor activities, trajectory models):
+  ribosomal protein genes and pseudogenes and the other genes with the symbol prefixes RPL and RPS, genes of the mitochondrial genome, their nuclear pseudogenes and the MTRNR2-like genes;
+  columns gene symbol and Ensembl id (GENCODE v47, empty for symbols that are not in GENCODE v47)
+- Oligodendrocyte_LineageMarkerGenes.txt: marker genes of the oligodendrocyte lineage that are labelled in the heatmaps of Figure 4
+
+ReferenceFiles/GeneSets (not part of this repository, see DOWNLOAD.txt)
+- MSigDB 2026.1 gene sets (GO, Reactome, hallmark), KEGG pathways, MitoCarta 3.0 pathways
+
+ReferenceFiles/TF_Networks (not part of this repository, see DOWNLOAD.txt)
+- Oli_GRN.txt: gene regulatory network of oligodendrocytes from brainSCOPE
+
+snRNAseq_HC_MSA_PD (not part of this repository, see README.txt)
+- cell annotation, donor table and contamination-corrected counts of the snRNA-seq data set of HC, MSA and PD donors (Rydbirk et al., 2026), made from the data of the authors
+
+ExternalPDCohorts (not part of this repository, see README.txt)
+- donor table and count matrices of the Lee data set, contamination-corrected counts of the OPCs and oligodendrocytes and pseudobulk counts of three published PD data sets
+
+Software (not part of this repository, see README.txt)
+- source code of STREAM 1.1, used for Figure 4
+
+SavedModels/evaluateK
+- AIC values for the number of knots of the tradeSeq models, see README.txt

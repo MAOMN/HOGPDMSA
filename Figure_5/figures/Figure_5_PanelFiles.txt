@@ -1,0 +1,8 @@
+panel	disease	lineage	module_id	figure_pdf
+A	MSA and PD	all	all modules	Figure_5A_Modules_Overview.pdf
+B	PD	L1	PD_L1__D01	Modules_GO_BP/PD_L1/PD_L1_C1.pdf
+C	PD	L3	PD_L3__D01	Modules_GO_BP/PD_L3/PD_L3_C1.pdf
+F	MSA	L1	MSA_L1__D03	Modules_GO_BP/MSA_L1/MSA_L1_C3.pdf
+G	MSA	L3	MSA_L3__D01	Modules_GO_BP/MSA_L3/MSA_L3_C1.pdf
+D	PD	L1	PD_L1__D01	Figure_5D_SelectedGenes_OXPHOS_PD_L1.pdf
+E	PD	L3	PD_L3__D01	Figure_5E_SelectedGenes_OXPHOS_PD_L3.pdf

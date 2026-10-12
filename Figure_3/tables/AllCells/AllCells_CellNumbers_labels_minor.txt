@@ -1,0 +1,18 @@
+labels_minor	n_cells
+OL_LINC01608	71018
+OL_SLC5A11	9990
+AS_homeostatic	6610
+MSN	5018
+OPCs	4638
+AS_reactive	4156
+OL_SGCZ	3272
+Inh. neurons	2846
+MIC_steady-state	2213
+MIC_intermediate1	1776
+MIC_intermediate2	1361
+MIC_activated	902
+COPs	769
+Pericytes/endothelial	683
+PVMs	677
+Exc. neurons	583
+Immune	435
